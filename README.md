@@ -1,4 +1,4 @@
-<img src="[https://zty1.oss-cn-chengdu.aliyuncs.com/img/pexels-dylan-spangler-11950172.jpg](https://zty1.oss-cn-chengdu.aliyuncs.com/img/pexels-dylan-spangler-11950172.jpg)" align="right" style="float: right; margin: 0 5px 0 0;" width="200px" />
+<img src="https://zty1.oss-cn-chengdu.aliyuncs.com/img/pexels-dylan-spangler-11950172.jpg" align="right" style="float: right; margin: 0 5px 0 0;" width="200px" />
 
 ### Hi there 👋
 
